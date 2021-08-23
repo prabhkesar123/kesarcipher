@@ -1,0 +1,24 @@
+body{
+    background-color: #29426b;
+
+}
+.heading{
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Indie Flower', cursive;
+    padding-top: 20px;
+}
+
+.para{
+    font-family: 'Indie Flower', cursive;
+    font-size: 28px;
+    color: #ffffff;
+    text-align: center;
+}
+.heading2{
+    font-family: 'Indie Flower',cursive;
+    font-size: 80px;
+    text-align: center;
+    color: #ffffff;
+}
+
